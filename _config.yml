@@ -1,4 +1,3 @@
-layout_spectrum: 0.8553201155737042
 typography_spectrum: 0.604095303453505
 color:
   brandStrength: 0.8013202804140747
@@ -6,9 +5,11 @@ color:
   saturation: 0.8924190881662071
   rhythmicContrast: 0.3997477130033076
   brandColors:
-    - '#105B63'
-    - '#FFFAD5'
-    - '#FFD34E'
-    - '#DB9E36'
-    - '#BD4932'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+layout_spectrum: 0.8553201155737042
 name: The seeker of hidden sounds
+title: 'Music, noise... Sound!'
